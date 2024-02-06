@@ -4,8 +4,8 @@
 ### 📚 My favorite books
 
 <p>
-    <img src="https://m.media-amazon.com/images/I/91bobQSPQrL._SL1500_.jpg" alt="design patters book"/>
-    <img src="https://m.media-amazon.com/images/I/41UCHSjG7XL._SX342_SY445_.jpg" alt="kotlin book"/>
+    <img src="https://m.media-amazon.com/images/I/91bobQSPQrL._AC_UY218_.jpg" alt="design patters book"/>
+    <img src="https://m.media-amazon.com/images/I/41UCHSjG7XL._AC_UY218_.jpg" alt="kotlin book"/>
 </p>
 ---
 
