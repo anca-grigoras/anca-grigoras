@@ -11,6 +11,17 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+---
+
+### 📚 My favorite books
+
+<p>
+    <img src="https://m.media-amazon.com/images/I/91bobQSPQrL._SL1500_.jpg" alt="design patters book"/>
+    <img src="https://m.media-amazon.com/images/I/41UCHSjG7XL._SX342_SY445_.jpg" alt="kotlin book"/>
+</p>
+
+---
+
 -->
